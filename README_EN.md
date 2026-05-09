@@ -14,6 +14,8 @@ As Vibe Coding becomes more addictive, I kept running into these problems: forge
 
 So I built LocalServiceHub with a simple goal: turn all these local services into visible, operable project cards.
 
+But I don't want to memorize any CLI commands or learn a new tool. I don't want solving one problem to create another. So with this tool, you don't need to remember anything — just start it, copy the registration prompt into your Coding Agent, and you're done.
+
 ## Highlights
 
 - **AI Registration**: Built-in registration prompt — copy it into your Coding Agent and let AI analyze the project structure and call the LocalServiceHub API to register automatically.
